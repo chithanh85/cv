@@ -111,7 +111,7 @@ export const config: Config = {
         lastName: 'Nguyen Chi',
         organization: 'PKTeam',
         title: 'Vice CEO',
-        birthday: new Date(1985, 01, 26),
+        birthday: new Date(1985, 1, 26),
         workPhone: '+84 977 274 727',
         email: 'chithanh85@gmail.com',
         // Enable to display contact as a company
