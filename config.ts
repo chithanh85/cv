@@ -18,9 +18,9 @@ import image from '@/card-image.jpg';
 
 export const config: Config = {
     // Set your or company name
-    title: 'Patrick Bateman',
+    title: 'Nguyễn Chí Thanh',
     // Add a brief description to display below name
-    bio: 'Specialist in mergers and acquisitions',
+    bio: 'Prop Trader and Vibe Coder',
     // Select a background style
     background: 'gradient',
     cardImage: image,
@@ -33,31 +33,31 @@ export const config: Config = {
         {
             title: 'Email',
             id: 'email',
-            url: 'mailto:user@example.com',
+            url: 'mailto:chithanh85@gmail.com',
             icon: Envelope,
         },
         {
             title: 'Call',
             id: 'phone',
-            url: 'tel:+491234567890',
+            url: 'tel:+84977274727',
             icon: PhoneCall,
         },
         {
             title: 'Whatsapp',
             id: 'whatsapp',
-            url: 'https://wa.me/491234567890',
+            url: 'https://wa.me/84977274727',
             icon: WhatsappLogo,
         },
         {
             title: 'Telegram',
             id: 'telegram',
-            url: 'https://t.me/userName',
+            url: 'https://t.me/chithanhfx',
             icon: TelegramLogo,
         },
         {
             title: 'Messenger',
             id: 'meta-messenger',
-            url: 'http://m.me/PAGE-NAME?text=Hello%20and%20Welcome',
+            url: 'http://m.me/chithanhfx?text=Hello%20and%20Welcome',
             icon: MessengerLogo,
         },
     ],
@@ -66,31 +66,32 @@ export const config: Config = {
         {
             id: 'cv',
             title: 'Download CV',
-            url: 'https://example.com',
+            url: 'https://drive.google.com/uc?export=download&id=1rQZ5gJ3yVaZ9jAfynIxdh0WQv1bb9HuI
+',
             icon: FileText,
         },
         {
             id: 'calendar',
             title: 'Book a call with me',
-            url: 'https://example.com',
+            url: 'https://calendly.com/chithanh85/30min',
             icon: Calendar,
         },
         {
             id: 'github',
             title: 'GitHub',
-            url: 'https://github.com/user-name',
+            url: 'https://github.com/',
             icon: GithubLogo,
         },
         {
             id: 'linkedin',
             title: 'LinkedIn',
-            url: 'https://www.linkedin.com/in/userName/',
+            url: 'https://www.linkedin.com/in/nguyen-chi-thanh/',
             icon: LinkedinLogo,
         },
         {
             id: 'youtube',
             title: 'Youtube channel',
-            url: 'https://www.youtube.com/@user-name',
+            url: 'https://www.youtube.com/chithanhoiic',
             icon: YoutubeLogo,
         },
         {
@@ -107,13 +108,13 @@ export const config: Config = {
         },
     ],
     vCard: {
-        firstName: 'Patrick',
-        lastName: 'Bateman',
-        organization: 'Pierce & Pierce',
-        title: 'Vice President',
-        birthday: new Date(1961, 9, 23),
-        workPhone: '+1 212 555 6342',
-        email: 'patrick@psycho.us',
+        firstName: 'Thanh',
+        lastName: 'Nguyen Chi',
+        organization: 'PKTeam',
+        title: 'Deputy CEO',
+        birthday: new Date(1985, 1, 26),
+        workPhone: '+8477274727',
+        email: 'chithanh85@gmail.com',
         // Enable to display contact as a company
         // isOrganization: true,
     },
