@@ -66,8 +66,7 @@ export const config: Config = {
         {
             id: 'cv',
             title: 'Download CV',
-            url: 'https://drive.google.com/uc?export=download&id=1rQZ5gJ3yVaZ9jAfynIxdh0WQv1bb9HuI
-',
+            url: 'https://drive.google.com/uc?export=download&id=1rQZ5gJ3yVaZ9jAfynIxdh0WQv1bb9HuI',
             icon: FileText,
         },
         {
